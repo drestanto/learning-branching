@@ -1,1 +1,5 @@
 # learning-branching
+
+HALO, AKU IQBAL
+AKU DI AWASI SAMA BIN (ORG TUA SAYA)
+TAPI BOONG.
