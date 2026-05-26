@@ -1,20 +1,27 @@
-1
+1 - febru - mancing
 2
 3
-4
+4 Lian - rajin menabung
 5
-6
+6 Seemon - rakit gundam
 7
+6
+7 Yuri Yipee
 8
-<<<<<<< HEAD
-9 aryaR - loncat tebing 
-=======
 9 Faros - rajin ngaji
->>>>>>> 23e0c5ea99a89d4ac7b7d1173e0dbba117e568b2
 10
 11 Dyas - makan burger
 12
 13 - Main maimai
 14
+<<<<<<< HEAD
 15
 16 Ivan - musik
+=======
+15 Iqebal - cita2: jadi mafia
+16
+17 Nurman - backend lover and I hate hate
+
+
+22 - Nonton My Kisah
+>>>>>>> 15e59d884090c1f12b51b47de88d46535cf18a75
