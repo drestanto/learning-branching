@@ -14,14 +14,12 @@
 12
 13 - Main maimai
 14
-<<<<<<< HEAD
 15
 16 Ivan - musik
-=======
 15 Iqebal - cita2: jadi mafia
 16
 17 Nurman - backend lover and I hate hate
 
 
 22 - Nonton My Kisah
->>>>>>> 15e59d884090c1f12b51b47de88d46535cf18a75
+
