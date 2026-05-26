@@ -1,12 +1,19 @@
+<<<<<<< HEAD
 1
 2rizal - mancing
 3
+=======
+1 - febru - mancing
+2
+3 
+>>>>>>> 8e57b36ea18d20f98a377efdde2547df8d5b2645
+>>>>>>> fa0a94fa85fa59e69ea893710862919543dbf8ce
 4 
 5
 6 Seemon - rakit gundam
 7
 6
-7 Yuri Yipee
+7 Kina - Waow
 8
 9 Faros - rajin ngaji
 10
@@ -14,9 +21,17 @@
 12
 13 - Main maimai
 14
-15 Iqebal - cita2: jadi mafia
+15
+16 ivan - orang sukses
+15 Iqebal - cita2: jadi orang sukses
 16
-17 Nurman - backend lover
+17 Nurman - backend lover and I hate hate
+18 Fatih - MIAU (Main game)
 
 
 22 - Nonton My Kisah
+
+<<<<<<< HEAD
+Digital Circus
+=======
+>>>>>>> 8e57b36ea18d20f98a377efdde2547df8d5b2645
