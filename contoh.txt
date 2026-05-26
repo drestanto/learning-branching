@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-1
-2rizal - mancing
-3
-=======
 1 - febru - mancing
-2
+2   rizal jogging
 3 
 >>>>>>> 8e57b36ea18d20f98a377efdde2547df8d5b2645
 >>>>>>> fa0a94fa85fa59e69ea893710862919543dbf8ce
